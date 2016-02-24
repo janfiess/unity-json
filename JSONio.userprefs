@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_3WriteJson_ObjectArray_JsonUtility.cs">
+    <Files>
+      <File FileName="Assets/_3WriteJson_ObjectArray_LitJson.cs" Line="31" Column="48" NotebookId="1" />
+    </Files>
+    <FloatingWindows>
+      <FloatingWindow WindowId="1" X="0" Y="1103" Width="1086" Height="831">
+        <Files>
+          <File FileName="Assets/_4Update_ObjectArray_LitJson.cs" Line="93" Column="44" />
+          <File FileName="Assets/_3WriteJson_ObjectArray_JsonUtility.cs" Line="38" Column="25" />
+        </Files>
+      </FloatingWindow>
+    </FloatingWindows>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
